@@ -10,3 +10,5 @@ function isPrime(n) {
 }
 
 console.log(isPrime(13));
+
+//o(n)
